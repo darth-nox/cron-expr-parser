@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronExprParser", "CronExprParser\CronExprParser.csproj", "{06FB029D-9199-4D9C-8248-7D6EC85B3E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronExprParser.UnitTests", "CronExprParser.UnitTests\CronExprParser.UnitTests.csproj", "{D0DEEB71-B7F3-47BC-B390-24F023C4744F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FB029D-9199-4D9C-8248-7D6EC85B3E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FB029D-9199-4D9C-8248-7D6EC85B3E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FB029D-9199-4D9C-8248-7D6EC85B3E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FB029D-9199-4D9C-8248-7D6EC85B3E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DEEB71-B7F3-47BC-B390-24F023C4744F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DEEB71-B7F3-47BC-B390-24F023C4744F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DEEB71-B7F3-47BC-B390-24F023C4744F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DEEB71-B7F3-47BC-B390-24F023C4744F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
